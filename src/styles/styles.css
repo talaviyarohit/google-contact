@@ -1,0 +1,30 @@
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 48px 0 0;
+  }
+  
+  body {
+    padding-top: 56px;
+  }
+  
+  .list-group-item {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .list-group-item h5 {
+    margin: 0;
+  }
+  
+  .list-group-item p {
+    margin: 0;
+    color: #6c757d;
+  }
+  
